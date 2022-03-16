@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Tech Stack</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
-<!--
-**syeon2565/syeon2565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Express-black?logo=Express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white&style=for-the-badge" />
+
+</div>
