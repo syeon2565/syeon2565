@@ -5,8 +5,8 @@
 
   <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-
 <img src="https://img.shields.io/badge/Express-black?logo=Express&logoColor=white&style=for-the-badge" />
+<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
